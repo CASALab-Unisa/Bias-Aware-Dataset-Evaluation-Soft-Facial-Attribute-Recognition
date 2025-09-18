@@ -3,7 +3,8 @@
 This repository contains enhanced annotations for the CelebA and LFW datasets, developed in the context of the study:
 
 **A Framework for Bias-Aware Dataset Evaluation in Soft Facial Attribute Recognition**  
-Lucia Cascone, Michele Nappi, Chiara Pero, Xinggang Wang *(currently under review)*
+Lucia Cascone, Michele Nappi, Chiara Pero, Xinggang Wang 
+*Pattern Recognition*
 
 These annotations are intended to support fairness and bias evaluation in soft facial attribute recognition (FAR) tasks.
 
